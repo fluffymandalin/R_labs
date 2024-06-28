@@ -1,2 +1,2 @@
 # R_labs
-R lab codes of my 365 - Applied Data Analaysis course --Fall'23
+Applied Data Analaysis course R labs -junior
