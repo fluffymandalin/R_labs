@@ -1,2 +1,2 @@
 # R_labs
-Applied Data Analaysis course R labs -junior
+Applied Data Analysis course R labs -junior
